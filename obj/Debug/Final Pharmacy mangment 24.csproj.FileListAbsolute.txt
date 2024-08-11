@@ -1,0 +1,16 @@
+C:\Users\Hp\Desktop\Practice oop\Final Pharmacy mangment 24\obj\Debug\Final Pharmacy mangment 24.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Practice oop\Final Pharmacy mangment 24\obj\Debug\Final_Pharmacy_mangment_24.Form1.resources
+C:\Users\Hp\Desktop\Practice oop\Final Pharmacy mangment 24\obj\Debug\Final_Pharmacy_mangment_24.Login.resources
+C:\Users\Hp\Desktop\Practice oop\Final Pharmacy mangment 24\obj\Debug\Final_Pharmacy_mangment_24.Properties.Resources.resources
+C:\Users\Hp\Desktop\Practice oop\Final Pharmacy mangment 24\obj\Debug\Final Pharmacy mangment 24.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\Practice oop\Final Pharmacy mangment 24\obj\Debug\Final Pharmacy mangment 24.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Practice oop\Final Pharmacy mangment 24\bin\Debug\Final Pharmacy mangment 24.exe.config
+C:\Users\Hp\Desktop\Practice oop\Final Pharmacy mangment 24\bin\Debug\Final Pharmacy mangment 24.exe
+C:\Users\Hp\Desktop\Practice oop\Final Pharmacy mangment 24\bin\Debug\Final Pharmacy mangment 24.pdb
+C:\Users\Hp\Desktop\Practice oop\Final Pharmacy mangment 24\obj\Debug\Final Pharmacy mangment 24.exe
+C:\Users\Hp\Desktop\Practice oop\Final Pharmacy mangment 24\obj\Debug\Final Pharmacy mangment 24.pdb
+C:\Users\Hp\Desktop\Practice oop\Final Pharmacy mangment 24\obj\Debug\Final_Pharmacy_mangment_24.DashBoard.resources
+C:\Users\Hp\Desktop\Practice oop\Final Pharmacy mangment 24\obj\Debug\Final_Pharmacy_mangment_24.Medicine.resources
+C:\Users\Hp\Desktop\Practice oop\Final Pharmacy mangment 24\obj\Debug\Final_Pharmacy_mangment_24.Billing.resources
+C:\Users\Hp\Desktop\Practice oop\Final Pharmacy mangment 24\obj\Debug\Final_Pharmacy_mangment_24.Company.resources
+C:\Users\Hp\Desktop\Practice oop\Final Pharmacy mangment 24\obj\Debug\Final_Pharmacy_mangment_24.Employee.resources
